@@ -1,0 +1,3 @@
+[submodule "git-kata-sandbox-sub1"]
+	path = git-kata-sandbox-sub1
+	url = git@github.com:testobsessed/git-kata-sandbox-sub1.git
