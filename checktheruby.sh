@@ -1,5 +1,7 @@
 echo "PATH"
 echo $PATH
+echo "RUBY"
+echo `which ruby`
 echo "RUBY VERSION FILE"
 catver=`cat .ruby-version | sed s/-//g`
 echo $catver
